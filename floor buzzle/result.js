@@ -16,7 +16,3 @@ fs.readFile('input.txt',(error,input)=>{
 
     console.timeEnd('time')
 })
-if(cnt===-1){
-    console.log(index+1)
-    break
-}
